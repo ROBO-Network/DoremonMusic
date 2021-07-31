@@ -27,7 +27,7 @@ async def start(_, message: Message):
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "𝐂𝐎  𝐎𝐖𝐍𝐄𝐑.", url="https://t.me/Mr_Robo_Robot"
+                        "𝐂𝐎  𝐎𝐖𝐍𝐄𝐑", url="https://t.me/Mr_Robo_Robot"
                     )
                 ],[
                     InlineKeyboardButton(
