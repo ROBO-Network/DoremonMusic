@@ -20,7 +20,7 @@ async def start(_, message: Message):
                         "𝐎𝐖𝐍𝐄𝐑😘", url="t.me/Mr_Robo_Official")
                   ],[
                     InlineKeyboardButton(
-                        "𝐒𝐔𝐏𝐏𝐎𝐑𝐓�", url="https://t.me/ROBO_Support"
+                        "𝐒𝐔𝐏𝐏𝐎𝐑𝐓", url="https://t.me/ROBO_Support"
                     ),
                     InlineKeyboardButton(
                         "𝐂𝐇𝐀𝐍𝐍𝐄𝐋", url="https://t.me/Robo_Network"
