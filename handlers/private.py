@@ -23,7 +23,7 @@ async def start(_, message: Message):
                         "𝐒𝐔𝐏𝐏𝐎𝐑𝐓👿", url="https://t.me/ROBO_Support"
                     ),
                     InlineKeyboardButton(
-                        "𝐂𝐇𝐀𝐍𝐍𝐄𝐋", url="https://t.me/Robo_Network"
+                        "𝐂𝐇𝐀𝐍𝐍𝐄𝐋.", url="https://t.me/Robo_Network"
                     )
                 ],[ 
                     InlineKeyboardButton(
