@@ -7,7 +7,7 @@ from helpers.filters import other_filters2
 
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
-    await message.reply_photo("https://telegra.ph/file/77b3a7cf3fa84615e6552.png")
+    await message.reply_photo("https://telegra.ph/file/748bf8a9224237b185a28.png")
     await message.reply_text(
         f"""**Hey, I'm {BOT_NAME} 🎀
 ι ϲᴀɴ ρʟᴀʏ мᴜѕɪᴄ ιɴ γᴏᴜʀ gʀᴏᴜᴩ νᴏɪᴄᴇ ϲʜᴀᴛ. ∂ᴇᴠᴇʟᴏᴩᴇᴅ ϐʏ  [AASTHA QUEEN 😇 𝘿𝙊𝙍𝙀𝙈𝙊𝙉 😇](https://t.me/itz_aastha_heartlessgirl) .
